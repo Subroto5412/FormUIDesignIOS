@@ -1,0 +1,6 @@
+framework module Pods_FormUIDesignIOS {
+  umbrella header "Pods-FormUIDesignIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
